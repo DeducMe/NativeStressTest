@@ -3,17 +3,10 @@ import React from 'react';
 import { StyleSheet, View, Image, Text, TouchableOpacity, useWindowDimensions, TouchableHighlight} from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
-import {useNavigation} from '@react-navigation/native';
 function StoriesScreen(props) {
-    const {data, goToPrevStory, goToNextStory} = props
+    const {data, goToPrevStory, goToNextStory, closeStory} = props
     const {width} = useWindowDimensions()
-
-    const navigation = useNavigation()
-
-    const closeStory = () =>{
-        console.log('ddd')
-        navigation.navigate('Home')
-    }
+    
     return (
         <SafeAreaView style={[styles.container, {width}]}>
             <TouchableHighlight onPress={closeStory} style={styles.closeBtn}>

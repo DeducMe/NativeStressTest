@@ -3,20 +3,20 @@ import { StyleSheet, Image, Text, TouchableWithoutFeedback, View } from 'react-n
 import {useNavigation} from '@react-navigation/native';
 
 function Story(props) {
-    const item = props.item
+    const user = props.item
 
     const navigation = useNavigation()
 
     const storyOnPress = () =>{
         console.log('pressed')
-        navigation.navigate('Stories', item)
+        navigation.navigate('Stories', user.id)
     }
 
     return (
         <TouchableWithoutFeedback onPress={storyOnPress}>
             <View style={styles.story}>
-                <Image style={styles.avatarImage} source={{uri:item.image}}></Image>
-                <Text style={styles.userName}>{item.name}</Text>
+                <Image style={styles.avatarImage} source={{uri:user.image}}></Image>
+                <Text style={styles.userName}>{user.name}</Text>
             </View>
         </TouchableWithoutFeedback>
     );
