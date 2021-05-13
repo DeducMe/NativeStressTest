@@ -23,14 +23,14 @@
     {
         "id":4,
         "user_id":2,
-        "user_image":"https://randomuser.me/api/portraits/men/91.jpg",
+        "user_image":"https://randomuser.me/api/portraits/men/59.jpg",
         "user_name": "progger_ot_djavola",
         "image":"https://randomuser.me/api/portraits/men/93.jpg"
     },
     {
         "id":5,
         "user_id":2,
-        "user_image":"https://randomuser.me/api/portraits/men/91.jpg",
+        "user_image":"https://randomuser.me/api/portraits/men/59.jpg",
         "user_name": "progger_ot_djavola",
         "image":"https://randomuser.me/api/portraits/men/94.jpg"
     },
@@ -54,5 +54,5 @@
         "user_image":"https://randomuser.me/api/portraits/men/92.jpg",
         "user_name": "simple_guy",
         "image":"https://randomuser.me/api/portraits/men/98.jpg"
-    }
+    }  
 ]
