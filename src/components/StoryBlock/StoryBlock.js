@@ -3,6 +3,7 @@ import React, { useEffect, useState, useRef } from 'react';
 import { StyleSheet, View, ActivityIndicator, FlatList, Animated } from 'react-native';
 import StoryView from './StoryView/StoryView'
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import styles from './styles'
 
 function useInterval(callback, delay) {
     const savedCallback = useRef();
@@ -160,28 +161,5 @@ function StoryBlock(props) {
         </SafeAreaProvider>
     );
 }
-
-const styles = StyleSheet.create({
-    loader: {
-        padding: 10,
-
-        flex: 1,
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-    container: {
-        width: '100%',
-        height: '100%',
-        flex: 1,
-        backgroundColor: '#000',
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-    progressBar: {
-        backgroundColor: "#8BED4F",
-        height: 5,
-        marginBottom: 10
-    }
-});
 
 export default StoryBlock
