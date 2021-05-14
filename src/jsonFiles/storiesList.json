@@ -1,58 +1,58 @@
 [
     {
-        "id":1,
-        "user_id":1,
-        "user_image":"https://randomuser.me/api/portraits/men/90.jpg",
+        "id": 1,
+        "user_id": 1,
+        "user_image": "https://randomuser.me/api/portraits/men/90.jpg",
         "user_name": "progger_ot_boga",
-        "image":"https://randomuser.me/api/portraits/men/90.jpg"
+        "image": "https://randomuser.me/api/portraits/men/90.jpg"
     },
     {
-        "id":2,
-        "user_id":1,
-        "user_image":"https://randomuser.me/api/portraits/men/90.jpg",
+        "id": 2,
+        "user_id": 1,
+        "user_image": "https://randomuser.me/api/portraits/men/90.jpg",
         "user_name": "progger_ot_boga",
-        "image":"https://randomuser.me/api/portraits/men/91.jpg"
+        "image": "https://randomuser.me/api/portraits/men/91.jpg"
     },
     {
-        "id":3,
-        "user_id":1,
-        "user_image":"https://randomuser.me/api/portraits/men/90.jpg",
+        "id": 3,
+        "user_id": 1,
+        "user_image": "https://randomuser.me/api/portraits/men/90.jpg",
         "user_name": "progger_ot_boga",
-        "image":"https://randomuser.me/api/portraits/men/92.jpg"
+        "image": "https://randomuser.me/api/portraits/men/92.jpg"
     },
     {
-        "id":4,
-        "user_id":2,
-        "user_image":"https://randomuser.me/api/portraits/men/59.jpg",
+        "id": 4,
+        "user_id": 2,
+        "user_image": "https://randomuser.me/api/portraits/men/59.jpg",
         "user_name": "progger_ot_djavola",
-        "image":"https://randomuser.me/api/portraits/men/93.jpg"
+        "image": "https://randomuser.me/api/portraits/men/93.jpg"
     },
     {
-        "id":5,
-        "user_id":2,
-        "user_image":"https://randomuser.me/api/portraits/men/59.jpg",
+        "id": 5,
+        "user_id": 2,
+        "user_image": "https://randomuser.me/api/portraits/men/59.jpg",
         "user_name": "progger_ot_djavola",
-        "image":"https://randomuser.me/api/portraits/men/94.jpg"
+        "image": "https://randomuser.me/api/portraits/men/94.jpg"
     },
     {
-        "id":6,
-        "user_id":3,
-        "user_image":"https://randomuser.me/api/portraits/men/92.jpg",
+        "id": 6,
+        "user_id": 3,
+        "user_image": "https://randomuser.me/api/portraits/men/92.jpg",
         "user_name": "simple_guy",
-        "image":"https://randomuser.me/api/portraits/men/96.jpg"
+        "image": "https://randomuser.me/api/portraits/men/96.jpg"
     },
     {
-        "id":7,
-        "user_id":3,
-        "user_image":"https://randomuser.me/api/portraits/men/92.jpg",
+        "id": 7,
+        "user_id": 3,
+        "user_image": "https://randomuser.me/api/portraits/men/92.jpg",
         "user_name": "simple_guy",
-        "image":"https://randomuser.me/api/portraits/men/97.jpg"
+        "image": "https://randomuser.me/api/portraits/men/97.jpg"
     },
     {
-        "id":8,
-        "user_id":3,
-        "user_image":"https://randomuser.me/api/portraits/men/92.jpg",
+        "id": 8,
+        "user_id": 3,
+        "user_image": "https://randomuser.me/api/portraits/men/92.jpg",
         "user_name": "simple_guy",
-        "image":"https://randomuser.me/api/portraits/men/98.jpg"
-    }  
+        "image": "https://randomuser.me/api/portraits/men/98.jpg"
+    }
 ]

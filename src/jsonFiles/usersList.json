@@ -1,17 +1,17 @@
 [
     {
-        "id":1,
-        "image":"https://randomuser.me/api/portraits/men/90.jpg",
-        "name":"progger_ot_boga"
+        "id": 1,
+        "image": "https://randomuser.me/api/portraits/men/90.jpg",
+        "name": "progger_ot_boga"
     },
     {
-        "id":2,
-        "image":"https://randomuser.me/api/portraits/men/59.jpg",
-        "name":"progger_ot_djavola"
+        "id": 2,
+        "image": "https://randomuser.me/api/portraits/men/59.jpg",
+        "name": "progger_ot_djavola"
     },
     {
-        "id":3,
-        "image":"https://randomuser.me/api/portraits/men/92.jpg",
-        "name":"simple_guy"
+        "id": 3,
+        "image": "https://randomuser.me/api/portraits/men/92.jpg",
+        "name": "simple_guy"
     }
 ]
